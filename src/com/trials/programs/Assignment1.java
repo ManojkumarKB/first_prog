@@ -1,3 +1,4 @@
+package com.trials.programs;
 import java.util.Scanner;
 
 public class Assignment1 {
